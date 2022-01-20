@@ -20,7 +20,7 @@ Python Jupyter Notebook
 libraries  
 -pandas
 -matplotlib
--seaborn
+-seaborn  
 SQL
 
 ### Links
