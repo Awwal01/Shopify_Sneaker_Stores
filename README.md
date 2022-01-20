@@ -23,5 +23,10 @@ libraries
 -seaborn  
 SQL
 
+### Visuals
+![image](https://user-images.githubusercontent.com/53828785/150247568-411fc88d-2bc5-416e-8f9e-8a344b4d4b76.png)
+
+![image](https://user-images.githubusercontent.com/53828785/150247932-894f8ff1-86f1-464b-a5a4-782948ae565e.png)
+
 ### Links
 https://shopify.engineering/build-production-grade-workflow-sql-modelling
