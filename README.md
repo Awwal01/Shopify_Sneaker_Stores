@@ -29,4 +29,4 @@ SQL
 ![image](https://user-images.githubusercontent.com/53828785/150247932-894f8ff1-86f1-464b-a5a4-782948ae565e.png)
 
 ### Links
-https://shopify.engineering/build-production-grade-workflow-sql-modelling
+https://www.shopify.com/blog/7365564-32-key-performance-indicators-kpis-for-ecommerce
